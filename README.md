@@ -3,7 +3,7 @@
 ## Matrix Multpilcation Using MPI
 The goal of the first project was to write a parallel algorithm using MPI to multiply two matrices AxB to produce the result in matrix C.
 
-The matrix size was 16x16, 32x32, 64x64, and 128x128 and was tested to make sure have the correct answer, and the code was ran using 1, 2, 4, 8, and 16 processors.
+The matrix size used was 16x16, 32x32, 64x64, and 128x128 and was tested to make sure have the correct answer, and the code was ran using 1, 2, 4, 8, and 16 processors.
 
 The following parameters were calculated and plotted 
 1. Speedup
