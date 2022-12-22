@@ -1,0 +1,21 @@
+np 1
+Greetings from process 0 out of 1 processors
+
+np 5
+Greetings from process 1 out of 5 processors
+Greetings from process 2 out of 5 processors
+Greetings from process 3 out of 5 processors
+Greetings from process 4 out of 5 processors
+Greetings from process 0 out of 5 processors
+
+
+np 8
+Greetings from process 1 out of 8 processors
+Greetings from process 2 out of 8 processors
+Greetings from process 3 out of 8 processors
+Greetings from process 4 out of 8 processors
+Greetings from process 5 out of 8 processors
+Greetings from process 6 out of 8 processors
+Greetings from process 7 out of 8 processors
+Greetings from process 0 out of 8 processors
+
